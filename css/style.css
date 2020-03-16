@@ -226,6 +226,17 @@ body{
 }
 .video{
   margin-bottom: 100px;
+  text-align: center;
+  animation: pulse 1.2s infinite;
+  
+}
+
+.video__link{
+  display: inline-block;
+  text-align: center;
+  padding: 22px 42px;
+  background-color: #B70021;
+  border-radius: 8px;
 }
 .advantages-inner__row{
   margin-bottom: 100px;
