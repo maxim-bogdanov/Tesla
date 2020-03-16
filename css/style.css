@@ -391,6 +391,9 @@ font-weight: bold;
   .advantages__img img{
     width: 100%;
   }
+  .statistics{
+    height: 100vh;
+  }
 }
 @media (max-width: 410px){
   .header-content__title{
