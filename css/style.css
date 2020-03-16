@@ -228,7 +228,6 @@ body{
   margin-bottom: 100px;
   text-align: center;
   animation: pulse 1.2s infinite;
-  
 }
 
 .video__link{
@@ -237,6 +236,11 @@ body{
   padding: 22px 42px;
   background-color: #B70021;
   border-radius: 8px;
+}
+.video-wrap{
+  display: flex;
+  justify-content: center;
+
 }
 .advantages-inner__row{
   margin-bottom: 100px;
@@ -378,6 +382,9 @@ font-weight: bold;
   }
   .statistics-item{
     padding: 50px;
+  }
+  .statictics{
+    margin-bottom: 0px;
   }
 }
 @media (max-width: 650px){
